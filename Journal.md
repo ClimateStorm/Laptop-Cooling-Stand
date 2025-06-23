@@ -1,1 +1,13 @@
 
+June 17th-20th
+I spent about 5 hours (split between 3 days) designing my laptop cooling stand. I have had this idea in my head for a while now and HackClub was the push for me to create this. I started out with a basic design not knowing what my exact parts would be but had the goal of putting my idea on the screen. ![image](https://github.com/user-attachments/assets/977fb5c9-eb50-48bc-b48b-8868ecbf3e9a)
+
+June 21st 
+I found out that my design wouldn't work because of how it was slanted from the start. I decided that I couldn't go into the project at full force from the start. Today's goal is to be able to have a good idea of what commercial laptop coolers have as features by doing some reasearch. 
+
+After reasearching for about an hour I decided that I would take inspiration for the Llano v13 laptop cooler. I then made a better blueprint for what I would do 
+later on the final laptop stand. My solution to the problem of needing the laptop to be angled but not being able to make the design angled from the start were feet
+that could be raised. ![image](https://github.com/user-attachments/assets/8f352f12-67fe-4567-bc77-f42f39ae0ede)
+
+June 22nd 
+Today I wanted to create the BOM for my project so that I could have actual measurements for my final design. This took about 3 hours to find the correct parts. In this time I also started to make a wiring diagram first on KiCad then switching to Excalidraw to opt for a simpler to understand diagram. ![image](https://github.com/user-attachments/assets/bd929ce2-f45f-4e25-8222-7447e39ef340) I plan to get a good way through my final design on either TinkerCAD or Fusion 360 tomorrow.
