@@ -11,3 +11,8 @@ that could be raised. ![image](https://github.com/user-attachments/assets/8f352f
 
 June 22nd 
 Today I wanted to create the BOM for my project so that I could have actual measurements for my final design. This took about 3 hours to find the correct parts. In this time I also started to make a wiring diagram first on KiCad then switching to Excalidraw to opt for a simpler to understand diagram. ![image](https://github.com/user-attachments/assets/bd929ce2-f45f-4e25-8222-7447e39ef340) I plan to get a good way through my final design on either TinkerCAD or Fusion 360 tomorrow.
+
+July 23rd
+Some things came up and I was unable to work on my project. Then I procrastinated on it until now. Doubting if I will be able to complete the project since learning
+fusion 360 is tough. Starting to make a model while also figuring out how I can bump my project up a tier.
+<img width="870" height="468" alt="image" src="https://github.com/user-attachments/assets/79e9379c-7ceb-492d-85f8-7f550dfda8b8" />
