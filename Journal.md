@@ -30,6 +30,11 @@ Spent ~4 hours
 July 23rd
 Some things came up and I was unable to work on my project. Then I procrastinated on it until now. Doubting if I will be able to complete the project since learning
 fusion 360 is tough. Starting to make a model while also figuring out how I can bump my project up a tier. I also updated the BOM since it has been a while since I had checked the links. Many of the prices changed and I also was able to hopefully find good parts in subsititue for the ones I had from Amazon.
+
+Some things I learned today/while I was away.
+* How to align objects in fusion 360
+* How to make holes in fusion 360
+* Fusion 360 is very complicated imo
 <img width="870" height="468" alt="image" src="https://github.com/user-attachments/assets/79e9379c-7ceb-492d-85f8-7f550dfda8b8" />
 
 Spent ~4 hours
