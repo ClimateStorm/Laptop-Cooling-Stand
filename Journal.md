@@ -1,3 +1,10 @@
+___
+Laptop Cooling Stand
+Slack User Climatestorm Name Tianhe
+I am creating a laptop coooler that will increase the longevity of the fans in my laptop.
+created at ~July 20th
+___
+
 
 June 17th-20th
 I spent about 5 hours (split between 3 days) designing my laptop cooling stand. I have had this idea in my head for a while now and HackClub was the push for me to create this. I started out with a basic design not knowing what my exact parts would be but had the goal of putting my idea on the screen. ![image](https://github.com/user-attachments/assets/977fb5c9-eb50-48bc-b48b-8868ecbf3e9a)
