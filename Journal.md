@@ -1,6 +1,8 @@
 ___
 Laptop Cooling Stand
+
 Slack User Climatestorm Name Tianhe
+
 I am creating a laptop coooler that will increase the longevity of the fans in my laptop.
 created at ~July 20th
 ___
