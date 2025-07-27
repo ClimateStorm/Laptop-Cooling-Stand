@@ -38,3 +38,14 @@ Some things I learned today/while I was away.
 <img width="870" height="468" alt="image" src="https://github.com/user-attachments/assets/79e9379c-7ceb-492d-85f8-7f550dfda8b8" />
 
 Spent ~4 hours
+
+
+July 26th
+
+Today was a brainstorming day for figuring out the problems before final design.
+
+*Problem 1: How will the bottom of the cooler look with fans? The bottom will have a mesh screen as a filter the size of the fan. it will also have stilts to prop it up. The fan will be inserted from the top.
+
+*Problem 2: How do you keep your laptop from slipping off (the laptop stand's stilts make it at an angle so there is more airflow) while allowing the lid to shut properly? I found that at least for major laptop cooling companies rely on the foam sheets to A. make it so that there is pressure for airflow to be greater and B. to keep the laptop from slipping off. I will also be adding guard rails in case it slips and fails for whatever reason.
+
+Time Spent ~ 2 hours
