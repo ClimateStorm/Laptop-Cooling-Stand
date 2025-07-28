@@ -56,3 +56,14 @@ Today was a brainstorming day for figuring out the problems before final design.
 <img width="808" height="652" alt="image" src="https://github.com/user-attachments/assets/16c3d6d5-c36e-4d17-8e13-1dbd360837d0" />
 
 Time Spent ~ 2 hours
+
+
+July 27th
+
+I tried to make a model but was stuck on even the simpilist functions. Spent a long time trying to learn the Fusion 360 program. Sometimes I think I learned how to use a new tool like the move an copy tool but it turns out that I have no idea how to use it. I run into errors and try to look up tutorials for the solution. Sometimes it works sometimes it doesn't. Luckily, I have found something pretty important: motivation and perseverance. Even if I don't finish this project in time to be able to use the grant, I have learned many lessons about the world and myself.
+
+Picture of me struggling with the move and copy tool.
+
+<img width="1022" height="489" alt="image" src="https://github.com/user-attachments/assets/3529bc39-c10b-4a80-a0f6-2bc3d44adfa7" />
+
+Time spent ~2.5 hours
