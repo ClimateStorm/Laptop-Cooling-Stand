@@ -67,3 +67,14 @@ Picture of me struggling with the move and copy tool.
 <img width="1022" height="489" alt="image" src="https://github.com/user-attachments/assets/3529bc39-c10b-4a80-a0f6-2bc3d44adfa7" />
 
 Time spent ~2.5 hours
+
+
+July 30th
+
+Today I feel like I really put in the work sincee the deadline is coming up. I was able to learn how sketches in fusion 360 work and added most of the airflow system into my model. <img width="415" height="309" alt="image" src="https://github.com/user-attachments/assets/29815dfb-bf13-4c91-9b67-8b118d7c5974" />
+
+I hope that I can finish tommorrow with the cut out center, feet that prop the laptop up, and wiring. 
+
+There were many control zs today when I was learning how to 3d model in fusion 360. Looking back, I feel like it would have been better if I just used TinkerCAD, a program I am very familiar with and is pretty easy to grasp. What I could have done in a day in TinkerCAD took me weeks to make in Fusion.
+
+Total time spent ~4 hours
