@@ -75,6 +75,13 @@ Today I feel like I really put in the work sincee the deadline is coming up. I w
 
 I hope that I can finish tommorrow with the cut out center, feet that prop the laptop up, and wiring. 
 
-There were many control zs today when I was learning how to 3d model in fusion 360. Looking back, I feel like it would have been better if I just used TinkerCAD, a program I am very familiar with and is pretty easy to grasp. What I could have done in a day in TinkerCAD took me weeks to make in Fusion.
+There were many control zs today when I was learning how to 3d model in fusion 360. Although I don't know if I will get approved I am glad that I learned a new skill over the summer.
 
 Total time spent ~4 hours
+
+
+July 31st 
+
+Today I finished my 3d model in fusion 360. Hopefully I can finish my project before the deadline. The vision I had in mind didn't really come to reality because I currently don't have the skillset to model very professionally.
+<img width="1077" height="678" alt="image" src="https://github.com/user-attachments/assets/1e121a97-4400-4890-8bbf-f7610a04be0a" />
+I am now updating the BOM for my project so that it is up to date. Also doing the finishing touches like the readme and STEP files.
