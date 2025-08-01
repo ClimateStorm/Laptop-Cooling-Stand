@@ -5,6 +5,8 @@ Slack User Climatestorm Name Tianhe
 
 I am creating a laptop coooler that will increase the longevity of the fans in my laptop.
 created at ~July 20th
+
+Spent ~29.5 hours
 ___
 
 
@@ -85,3 +87,5 @@ July 31st
 Today I finished my 3d model in fusion 360. Hopefully I can finish my project before the deadline. The vision I had in mind didn't really come to reality because I currently don't have the skillset to model very professionally.
 <img width="1077" height="678" alt="image" src="https://github.com/user-attachments/assets/1e121a97-4400-4890-8bbf-f7610a04be0a" />
 I am now updating the BOM for my project so that it is up to date. Also doing the finishing touches like the readme and STEP files.
+
+Time Spent ~5 Hours
