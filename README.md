@@ -11,11 +11,14 @@ I made this project because my friend told me about Highway Hack Club at school 
 
 Pictures of my project
 
-First Prototype
+First Prototype:
 ![image](https://github.com/user-attachments/assets/977fb5c9-eb50-48bc-b48b-8868ecbf3e9a)
 
 Model:
 <img width="791" height="519" alt="image" src="https://github.com/user-attachments/assets/6bcf1f37-d57a-45b5-9828-d3e8213c505e" />
+
+Wiring Diagram:
+![image](https://github.com/user-attachments/assets/bd929ce2-f45f-4e25-8222-7447e39ef340)
 
 
 
