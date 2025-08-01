@@ -9,6 +9,16 @@ Why I did this:
 I made this project because my friend told me about Highway Hack Club at school and it was the perfect opportunity to get a laptop cooling stand out of it. Normally, I wouldn't be able to make this perchase because they are very expencive. I wanted a laptop cooling stand because my "gaming" laptop was something I saved up a long time for and I didn't want the fans to die on me. The laptop cooling stand makes it so the regular fans in the laptop don't have to work as hard to get the same amount of air.
 
 
+Pictures of my project
+
+First Prototype
+![image](https://github.com/user-attachments/assets/977fb5c9-eb50-48bc-b48b-8868ecbf3e9a)
+
+Model:
+<img width="791" height="519" alt="image" src="https://github.com/user-attachments/assets/6bcf1f37-d57a-45b5-9828-d3e8213c505e" />
+
+
+
 | Cost+Item | Use | Link |
 | :---: | :---: | :---: |
 | Switch $1.81 | Turning the cooler on and off. | [Link](https://www.aliexpress.us/item/2251832806771133.html) |
