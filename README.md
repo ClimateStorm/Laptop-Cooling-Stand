@@ -2,7 +2,7 @@
 Highway Hackclub project Laptop Cooling Stand
 
 Description:
-My project is a laptop cooling stand that blows air from underneath the laptop into the bottom assisting with the laptop's fans. My project can be broken dwon into two parts, the case and the components. It has a powerful 120mmx120mm fan that's speed can be controlled through a knob.
+My project is a laptop cooling stand that blows air from underneath the laptop into the bottom assisting with the laptop's fans. My project can be broken down into two parts, the case and the components. It has a powerful 120mmx120mm fan that's speed can be controlled through a knob.
 
 
 Why I did this:
