@@ -11,5 +11,5 @@ I made this project because my friend told me about Highway Hack Club at school 
 
 | Cost | Use | Link |
 | :---: | :---: | :---: |
-| Placeholder | placeholder | placeholder |
+| Switch $1.81 | Turning the cooler on and off. | Link |
 
